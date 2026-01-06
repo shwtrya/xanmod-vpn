@@ -103,7 +103,7 @@ main_menu() {
     
     case $choice in
         1)
-            GITHUB_USER="YOUR_GITHUB_USERNAME"  # GANTI INI!
+            GITHUB_USER="shwtrya"  # GANTI INI!
             install_xanmod
             ;;
         2)
